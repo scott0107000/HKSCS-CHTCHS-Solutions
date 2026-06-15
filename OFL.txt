@@ -1,11 +1,13 @@
 Copyright © 2026 字言字型 版權所有。
 Copyright © 2026 Fancytype foundry. All rights reserved.
 
-This font is derived from Source Han Serif and TW-Sung. The following are the copyright of each font.
+This font is derived from Source Han Serif, TW-Sung and Xanh Mono. The following are the copyright of each font.
 [Source Han Serif]
 Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
 [TW-Sung]
 (c)2026數位發展部。使用者可依需求擇一使用以下條款：1.「政府資料開放授權條款-第一版」(https://data.gov.tw/license) ；2. 「開源字型授權1.1版(OFL 1.1) 」(https://scripts.sil.org/OFL)
+[Xanh Mono]
+Copyright 2020 The XanhMono Project Authors (https://github.com/yellow-type-foundry/xanhmono)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
